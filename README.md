@@ -1,6 +1,6 @@
-![banner](https://i.imgur.com/7g20675.png)
+![banner](https://cdn.phototourl.com/free/2026-07-04-7816dd6b-a714-473a-91e8-ea85b23241a3.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Boomtrex
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist The Skull
 ================================================================================================================================
 <h3 align = "center"><strong>Entwickler und Gamer auf Youtube👩‍💻 </h3>
 
@@ -20,10 +20,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <li>(KURZ INFO ÜBER MICH) Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie HTML & CSS.
 <li>🖥️  Sehe mein Portfolio unter [Meine Homepage](http://inktr.ee/Boomtrex)
 <li>✉️  Du kannst mich unter [Boomtrexx@gmail.com](mailto:Boomtrexx@gmail.com) kontaktieren
-<li>🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/Boomtrexx/say-hello-functions)
+<li>🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/TheSkullss/say-hello-functions)
 <li>🧠  ich mache eine Weiterbildung in HTML/CSS
 <li>🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots, FiveM Scripts
-<li>⚡  Ich habe ein eigenen Discord Server : [WH1TELIST](https://discord.gg/f75M2RJ8Pf)
+<li>⚡  Ich habe ein eigenen Discord Server : [SKULLDICATE](https://discord.gg/f75M2RJ8Pf)
 <ul>
 </div>
 <br>
