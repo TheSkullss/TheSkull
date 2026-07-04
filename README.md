@@ -18,12 +18,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ Über mich <b></h2>
 <ul>  
 <li>(KURZ INFO ÜBER MICH) Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie HTML & CSS.
-<li>🖥️  Sehe mein Portfolio unter [Meine Homepage](http://inktr.ee/Boomtrex)
-<li>✉️  Du kannst mich unter [Boomtrexx@gmail.com](mailto:Boomtrexx@gmail.com) kontaktieren
+<li>🖥️  Sehe mein Portfolio unter [Meine Homepage](http://inktr.ee/TheSkullss)
 <li>🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/TheSkullss/say-hello-functions)
 <li>🧠  ich mache eine Weiterbildung in HTML/CSS
 <li>🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots, FiveM Scripts
-<li>⚡  Ich habe ein eigenen Discord Server : [SKULLDICATE](https://discord.gg/f75M2RJ8Pf)
+<li>⚡  Ich habe ein eigenen Discord Server : [SKULLDICATE](https://discord.gg/N6d49Y75Nw)
 <ul>
 </div>
 <br>
@@ -39,13 +38,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div>
 <h2 > Meine Sozial Media Links</h2>
 
-[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@Boomtrex)
+[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@TheSkullss)
 <br>  
-[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/CjU4CrPTcf)
+[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/N6d49Y75Nw)
 <br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Boomtrexx)
+[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TheSkullss)
 <br>  
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/boomtrex)
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/The_Skullss)
 <br>
 </div>
 <br>
